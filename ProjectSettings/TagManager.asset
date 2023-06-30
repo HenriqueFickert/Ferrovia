@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Casa
+  - InventarioItens
+  - Portas
+  - Mapa
+  - HardFloor
+  - GrassFloor
+  - WoodFloor
+  - WaterFloor
+  - GroundFloor
+  - Simbolos
+  - Altar
+  - Gaveta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Effect
+  - Paraneblina
+  - Player
+  - Collectable
+  - Lanterna
+  - SemLuz
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

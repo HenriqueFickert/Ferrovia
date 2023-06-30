@@ -1,0 +1,1600 @@
+fileFormatVersion: 2
+guid: 4787c365638351e43a1edac6d51a324b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Lay _0
+  - first:
+      213: 21300002
+    second: Lay _1
+  - first:
+      213: 21300004
+    second: Lay _2
+  - first:
+      213: 21300006
+    second: Lay _3
+  - first:
+      213: 21300008
+    second: Lay _4
+  - first:
+      213: 21300010
+    second: Lay _5
+  - first:
+      213: 21300012
+    second: Lay _6
+  - first:
+      213: 21300014
+    second: Lay _7
+  - first:
+      213: 21300016
+    second: Lay _8
+  - first:
+      213: 21300018
+    second: Lay _9
+  - first:
+      213: 21300020
+    second: Lay _10
+  - first:
+      213: 21300022
+    second: Lay _11
+  - first:
+      213: 21300024
+    second: Lay _12
+  - first:
+      213: 21300026
+    second: Lay _13
+  - first:
+      213: 21300028
+    second: Lay _14
+  - first:
+      213: 21300030
+    second: Lay _15
+  - first:
+      213: 21300032
+    second: Lay _16
+  - first:
+      213: 21300034
+    second: Lay _17
+  - first:
+      213: 21300036
+    second: Lay _18
+  - first:
+      213: 21300038
+    second: Lay _19
+  - first:
+      213: 21300040
+    second: Lay _20
+  - first:
+      213: 21300042
+    second: Lay _21
+  - first:
+      213: 21300044
+    second: Lay _22
+  - first:
+      213: 21300046
+    second: Lay _23
+  - first:
+      213: 21300048
+    second: Lay _24
+  - first:
+      213: 21300050
+    second: Lay _25
+  - first:
+      213: 21300052
+    second: Lay _26
+  - first:
+      213: 21300054
+    second: Lay _27
+  - first:
+      213: 21300056
+    second: Lay _28
+  - first:
+      213: 21300058
+    second: Lay _29
+  - first:
+      213: 21300060
+    second: Lay _30
+  - first:
+      213: 21300062
+    second: Lay _31
+  - first:
+      213: 21300064
+    second: Lay _32
+  - first:
+      213: 21300066
+    second: Lay _33
+  - first:
+      213: 21300068
+    second: Lay _34
+  - first:
+      213: 21300070
+    second: Lay _35
+  - first:
+      213: 21300072
+    second: Lay _36
+  - first:
+      213: 21300074
+    second: Lay _37
+  - first:
+      213: 21300076
+    second: Lay _38
+  - first:
+      213: 21300078
+    second: Lay _39
+  - first:
+      213: 21300080
+    second: Lay _40
+  - first:
+      213: 21300082
+    second: Lay _41
+  - first:
+      213: 21300084
+    second: Lay _42
+  - first:
+      213: 21300086
+    second: Lay _43
+  - first:
+      213: 21300088
+    second: Lay _44
+  - first:
+      213: 21300090
+    second: Lay _45
+  - first:
+      213: 21300092
+    second: Lay _46
+  - first:
+      213: 21300094
+    second: Lay _47
+  - first:
+      213: 21300096
+    second: Lay _48
+  - first:
+      213: 21300098
+    second: Lay _49
+  - first:
+      213: 21300100
+    second: Lay _50
+  - first:
+      213: 21300102
+    second: Lay _51
+  - first:
+      213: 21300104
+    second: Lay _52
+  - first:
+      213: 21300106
+    second: Lay _53
+  - first:
+      213: 21300108
+    second: Lay _54
+  - first:
+      213: 21300110
+    second: Lay _55
+  - first:
+      213: 21300112
+    second: Lay _56
+  - first:
+      213: 21300114
+    second: Lay _57
+  - first:
+      213: 21300116
+    second: Lay _58
+  - first:
+      213: 21300118
+    second: Lay _59
+  - first:
+      213: 21300120
+    second: Lay _60
+  - first:
+      213: 21300122
+    second: Lay _61
+  - first:
+      213: 21300124
+    second: Lay _62
+  - first:
+      213: 21300126
+    second: Lay _63
+  - first:
+      213: 21300128
+    second: Lay _64
+  - first:
+      213: 21300130
+    second: Lay _65
+  - first:
+      213: 21300132
+    second: Lay _66
+  - first:
+      213: 21300134
+    second: Lay _67
+  - first:
+      213: 21300136
+    second: Lay _68
+  - first:
+      213: 21300138
+    second: Lay _69
+  - first:
+      213: 21300140
+    second: Lay _70
+  - first:
+      213: 21300142
+    second: Lay _71
+  - first:
+      213: 21300144
+    second: Lay _72
+  - first:
+      213: 21300146
+    second: Lay _73
+  - first:
+      213: 21300148
+    second: Lay _74
+  - first:
+      213: 21300150
+    second: Lay _75
+  - first:
+      213: 21300152
+    second: Lay _76
+  - first:
+      213: 21300154
+    second: Lay _77
+  - first:
+      213: 21300156
+    second: Lay _78
+  - first:
+      213: 21300158
+    second: Lay _79
+  - first:
+      213: 21300160
+    second: Lay _80
+  - first:
+      213: 21300162
+    second: Lay _81
+  - first:
+      213: 21300164
+    second: Lay _82
+  - first:
+      213: 21300166
+    second: Lay _83
+  - first:
+      213: 21300168
+    second: Lay _84
+  - first:
+      213: 21300170
+    second: Lay _85
+  - first:
+      213: 21300172
+    second: Lay _86
+  - first:
+      213: 21300174
+    second: Lay _87
+  - first:
+      213: 21300176
+    second: Lay _88
+  - first:
+      213: 21300178
+    second: Lay _89
+  - first:
+      213: 21300180
+    second: Lay _90
+  - first:
+      213: 21300182
+    second: Lay _91
+  - first:
+      213: 21300184
+    second: Lay _92
+  - first:
+      213: 21300186
+    second: Lay _93
+  - first:
+      213: 21300188
+    second: Lay _94
+  - first:
+      213: 21300190
+    second: Lay _95
+  - first:
+      213: 21300192
+    second: Lay _96
+  - first:
+      213: 21300194
+    second: Lay _97
+  - first:
+      213: 21300196
+    second: Lay _98
+  - first:
+      213: 21300198
+    second: Lay _99
+  - first:
+      213: 21300200
+    second: Lay _100
+  - first:
+      213: 21300202
+    second: Lay _101
+  - first:
+      213: 21300204
+    second: Lay _102
+  - first:
+      213: 21300206
+    second: Lay _103
+  - first:
+      213: 21300208
+    second: Lay _104
+  - first:
+      213: 21300210
+    second: Lay _105
+  - first:
+      213: 21300212
+    second: Lay _106
+  - first:
+      213: 21300214
+    second: Lay _107
+  - first:
+      213: 21300216
+    second: Lay _108
+  - first:
+      213: 21300218
+    second: Lay _109
+  - first:
+      213: 21300220
+    second: Lay _110
+  - first:
+      213: 21300222
+    second: Lay _111
+  - first:
+      213: 21300224
+    second: Lay _112
+  - first:
+      213: 21300226
+    second: Lay _113
+  - first:
+      213: 21300228
+    second: Lay _114
+  - first:
+      213: 21300230
+    second: Lay _115
+  - first:
+      213: 21300232
+    second: Lay _116
+  - first:
+      213: 21300234
+    second: Lay _117
+  - first:
+      213: 21300236
+    second: Lay _118
+  - first:
+      213: 21300238
+    second: Lay _119
+  - first:
+      213: 21300240
+    second: Lay _120
+  - first:
+      213: 21300242
+    second: Lay _121
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lay _0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5764
+        width: 1761
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _1
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 5990
+        width: 414
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _2
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 6025
+        width: 621
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _3
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 6057
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _4
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 5509
+        width: 465
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _5
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 5807
+        width: 241
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _6
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 5807
+        width: 239
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _7
+      rect:
+        serializedVersion: 2
+        x: 4751
+        y: 5807
+        width: 242
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4997
+        width: 1761
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _9
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 5000
+        width: 407
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _10
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 5360
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _11
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 5345
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _12
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 5353
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 4583
+        width: 223
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _14
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 4487
+        width: 365
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4185
+        width: 1519
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _19
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 3998
+        width: 443
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _27
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 3867
+        width: 472
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _32
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 3943
+        width: 287
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _33
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 3937
+        width: 274
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2813
+        width: 1905
+        height: 1194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _37
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 3551
+        width: 331
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1374
+        width: 966
+        height: 1177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _40
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2442
+        width: 382
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _42
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2444
+        width: 250
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _47
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2277
+        width: 308
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _49
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 2284
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _51
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2102
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _52
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2111
+        width: 41
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _53
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2100
+        width: 261
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _55
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2122
+        width: 274
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _58
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1946
+        width: 501
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _64
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1942
+        width: 325
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _69
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1774
+        width: 517
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _74
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1785
+        width: 340
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _76
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1590
+        width: 579
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _80
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1594
+        width: 206
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _84
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1349
+        width: 206
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _86
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1364
+        width: 356
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _87
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1361
+        width: 216
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _88
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1132
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _89
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1195
+        width: 266
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _92
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1192
+        width: 166
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _94
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1189
+        width: 241
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 998
+        width: 1063
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _99
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1022
+        width: 219
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _101
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1020
+        width: 260
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _102
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1024
+        width: 161
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _106
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 842
+        width: 226
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _108
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 840
+        width: 369
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lay _115
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 657
+        width: 727
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

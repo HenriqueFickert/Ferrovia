@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 83c90cda97bf00c43a697d6f5eda1fad
+timeCreated: 1525776171
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fodao
+  fontNames:
+  - Fodao
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b6b9c13558a84847a8e9bb721439482, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

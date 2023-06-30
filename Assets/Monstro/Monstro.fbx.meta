@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 89ac464f58c93b647a1aa49e3253338e
+timeCreated: 1526859291
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Monstro_Rig_2:Base
+    100004: Monstro_Rig_2:Belt1
+    100006: Monstro_Rig_2:Body
+    100008: Monstro_Rig_2:Body_Ctrl
+    100010: Monstro_Rig_2:ClothBelt
+    100012: Monstro_Rig_2:Eyes_Joint
+    100014: Monstro_Rig_2:Head_Joint
+    100016: Monstro_Rig_2:InnerEye
+    100018: Monstro_Rig_2:InnerEye 1
+    100020: Monstro_Rig_2:L_Ankle_Joint
+    100022: Monstro_Rig_2:L_Arm_Joint
+    100024: Monstro_Rig_2:L_Ball_Joint
+    100026: Monstro_Rig_2:L_Elbow_Joint
+    100028: Monstro_Rig_2:L_Eye_Joint
+    100030: Monstro_Rig_2:L_Hand_Joint
+    100032: Monstro_Rig_2:L_Index_Joint
+    100034: Monstro_Rig_2:L_Index_Joint2
+    100036: Monstro_Rig_2:L_Index_Joint3
+    100038: Monstro_Rig_2:L_Index_Joint4
+    100040: Monstro_Rig_2:L_Knee_Joint
+    100042: Monstro_Rig_2:L_Leg
+    100044: Monstro_Rig_2:L_Middle_Joint
+    100046: Monstro_Rig_2:L_Middle_Joint2
+    100048: Monstro_Rig_2:L_Middle_Joint3
+    100050: Monstro_Rig_2:L_Middle_Joint4
+    100052: Monstro_Rig_2:L_Pinky_Joint
+    100054: Monstro_Rig_2:L_Pinky_Joint2
+    100056: Monstro_Rig_2:L_Pinky_Joint3
+    100058: Monstro_Rig_2:L_Pinky_Joint4
+    100060: Monstro_Rig_2:L_Ring_Joint
+    100062: Monstro_Rig_2:L_Ring_Joint2
+    100064: Monstro_Rig_2:L_Ring_Joint3
+    100066: Monstro_Rig_2:L_Ring_Joint4
+    100068: Monstro_Rig_2:L_Shoulder_Joint
+    100070: Monstro_Rig_2:L_Thumb_Joint
+    100072: Monstro_Rig_2:L_Thumb_Joint2
+    100074: Monstro_Rig_2:L_Thumb_Joint3
+    100076: Monstro_Rig_2:L_Toes_Joint
+    100078: Monstro_Rig_2:L_Wrist_Joint
+    100080: Monstro_Rig_2:LEye
+    100082: Monstro_Rig_2:MonsterBase
+    100084: Monstro_Rig_2:MouthDown
+    100086: Monstro_Rig_2:MouthUp
+    100088: Monstro_Rig_2:Neck_Joint
+    100090: Monstro_Rig_2:OutEye
+    100092: Monstro_Rig_2:OutEye 1
+    100094: Monstro_Rig_2:polySurface1
+    100096: Monstro_Rig_2:polySurface15
+    100098: Monstro_Rig_2:R_Ankle_Joint
+    100100: Monstro_Rig_2:R_Arm_Joint
+    100102: Monstro_Rig_2:R_Ball_Joint
+    100104: Monstro_Rig_2:R_Elbow_Joint
+    100106: Monstro_Rig_2:R_Eye_Joint
+    100108: Monstro_Rig_2:R_Hand_Joint
+    100110: Monstro_Rig_2:R_Index_Joint
+    100112: Monstro_Rig_2:R_Index_Joint2
+    100114: Monstro_Rig_2:R_Index_Joint3
+    100116: Monstro_Rig_2:R_Index_Joint4
+    100118: Monstro_Rig_2:R_Knee_Joint
+    100120: Monstro_Rig_2:R_Leg_Joint
+    100122: Monstro_Rig_2:R_Middle_Joint
+    100124: Monstro_Rig_2:R_Middle_Joint2
+    100126: Monstro_Rig_2:R_Middle_Joint3
+    100128: Monstro_Rig_2:R_Middle_Joint4
+    100130: Monstro_Rig_2:R_Pinky_Joint
+    100132: Monstro_Rig_2:R_Pinky_Joint2
+    100134: Monstro_Rig_2:R_Pinky_Joint3
+    100136: Monstro_Rig_2:R_Pinky_Joint4
+    100138: Monstro_Rig_2:R_Ring_Joint
+    100140: Monstro_Rig_2:R_Ring_Joint2
+    100142: Monstro_Rig_2:R_Ring_Joint3
+    100144: Monstro_Rig_2:R_Ring_Joint4
+    100146: Monstro_Rig_2:R_Shoulder_Joint
+    100148: Monstro_Rig_2:R_Thumb_Joint
+    100150: Monstro_Rig_2:R_Thumb_Joint2
+    100152: Monstro_Rig_2:R_Thumb_Joint3
+    100154: Monstro_Rig_2:R_Toes_Joint
+    100156: Monstro_Rig_2:R_Wrist_Joint
+    100158: Monstro_Rig_2:REye
+    100160: Monstro_Rig_2:Root_Ctrl
+    100162: Monstro_Rig_2:Root_Joint
+    100164: Monstro_Rig_2:Skull
+    100166: Monstro_Rig_2:Spline_Joint1
+    100168: Monstro_Rig_2:Spline_Joint2
+    100170: Monstro_Rig_2:Spline_Joint3
+    100172: Monstro_Rig_2:Spline_Joint4
+    100174: Monstro_Rig_2:Spline_Joint5
+    100176: Monstro_Rig_2:TopHead_Joint
+    100178: Monstro_Rig_2:Torax_Joint
+    100180: Monstro_Rig_2:Under
+    400000: //RootNode
+    400002: Monstro_Rig_2:Base
+    400004: Monstro_Rig_2:Belt1
+    400006: Monstro_Rig_2:Body
+    400008: Monstro_Rig_2:Body_Ctrl
+    400010: Monstro_Rig_2:ClothBelt
+    400012: Monstro_Rig_2:Eyes_Joint
+    400014: Monstro_Rig_2:Head_Joint
+    400016: Monstro_Rig_2:InnerEye
+    400018: Monstro_Rig_2:InnerEye 1
+    400020: Monstro_Rig_2:L_Ankle_Joint
+    400022: Monstro_Rig_2:L_Arm_Joint
+    400024: Monstro_Rig_2:L_Ball_Joint
+    400026: Monstro_Rig_2:L_Elbow_Joint
+    400028: Monstro_Rig_2:L_Eye_Joint
+    400030: Monstro_Rig_2:L_Hand_Joint
+    400032: Monstro_Rig_2:L_Index_Joint
+    400034: Monstro_Rig_2:L_Index_Joint2
+    400036: Monstro_Rig_2:L_Index_Joint3
+    400038: Monstro_Rig_2:L_Index_Joint4
+    400040: Monstro_Rig_2:L_Knee_Joint
+    400042: Monstro_Rig_2:L_Leg
+    400044: Monstro_Rig_2:L_Middle_Joint
+    400046: Monstro_Rig_2:L_Middle_Joint2
+    400048: Monstro_Rig_2:L_Middle_Joint3
+    400050: Monstro_Rig_2:L_Middle_Joint4
+    400052: Monstro_Rig_2:L_Pinky_Joint
+    400054: Monstro_Rig_2:L_Pinky_Joint2
+    400056: Monstro_Rig_2:L_Pinky_Joint3
+    400058: Monstro_Rig_2:L_Pinky_Joint4
+    400060: Monstro_Rig_2:L_Ring_Joint
+    400062: Monstro_Rig_2:L_Ring_Joint2
+    400064: Monstro_Rig_2:L_Ring_Joint3
+    400066: Monstro_Rig_2:L_Ring_Joint4
+    400068: Monstro_Rig_2:L_Shoulder_Joint
+    400070: Monstro_Rig_2:L_Thumb_Joint
+    400072: Monstro_Rig_2:L_Thumb_Joint2
+    400074: Monstro_Rig_2:L_Thumb_Joint3
+    400076: Monstro_Rig_2:L_Toes_Joint
+    400078: Monstro_Rig_2:L_Wrist_Joint
+    400080: Monstro_Rig_2:LEye
+    400082: Monstro_Rig_2:MonsterBase
+    400084: Monstro_Rig_2:MouthDown
+    400086: Monstro_Rig_2:MouthUp
+    400088: Monstro_Rig_2:Neck_Joint
+    400090: Monstro_Rig_2:OutEye
+    400092: Monstro_Rig_2:OutEye 1
+    400094: Monstro_Rig_2:polySurface1
+    400096: Monstro_Rig_2:polySurface15
+    400098: Monstro_Rig_2:R_Ankle_Joint
+    400100: Monstro_Rig_2:R_Arm_Joint
+    400102: Monstro_Rig_2:R_Ball_Joint
+    400104: Monstro_Rig_2:R_Elbow_Joint
+    400106: Monstro_Rig_2:R_Eye_Joint
+    400108: Monstro_Rig_2:R_Hand_Joint
+    400110: Monstro_Rig_2:R_Index_Joint
+    400112: Monstro_Rig_2:R_Index_Joint2
+    400114: Monstro_Rig_2:R_Index_Joint3
+    400116: Monstro_Rig_2:R_Index_Joint4
+    400118: Monstro_Rig_2:R_Knee_Joint
+    400120: Monstro_Rig_2:R_Leg_Joint
+    400122: Monstro_Rig_2:R_Middle_Joint
+    400124: Monstro_Rig_2:R_Middle_Joint2
+    400126: Monstro_Rig_2:R_Middle_Joint3
+    400128: Monstro_Rig_2:R_Middle_Joint4
+    400130: Monstro_Rig_2:R_Pinky_Joint
+    400132: Monstro_Rig_2:R_Pinky_Joint2
+    400134: Monstro_Rig_2:R_Pinky_Joint3
+    400136: Monstro_Rig_2:R_Pinky_Joint4
+    400138: Monstro_Rig_2:R_Ring_Joint
+    400140: Monstro_Rig_2:R_Ring_Joint2
+    400142: Monstro_Rig_2:R_Ring_Joint3
+    400144: Monstro_Rig_2:R_Ring_Joint4
+    400146: Monstro_Rig_2:R_Shoulder_Joint
+    400148: Monstro_Rig_2:R_Thumb_Joint
+    400150: Monstro_Rig_2:R_Thumb_Joint2
+    400152: Monstro_Rig_2:R_Thumb_Joint3
+    400154: Monstro_Rig_2:R_Toes_Joint
+    400156: Monstro_Rig_2:R_Wrist_Joint
+    400158: Monstro_Rig_2:REye
+    400160: Monstro_Rig_2:Root_Ctrl
+    400162: Monstro_Rig_2:Root_Joint
+    400164: Monstro_Rig_2:Skull
+    400166: Monstro_Rig_2:Spline_Joint1
+    400168: Monstro_Rig_2:Spline_Joint2
+    400170: Monstro_Rig_2:Spline_Joint3
+    400172: Monstro_Rig_2:Spline_Joint4
+    400174: Monstro_Rig_2:Spline_Joint5
+    400176: Monstro_Rig_2:TopHead_Joint
+    400178: Monstro_Rig_2:Torax_Joint
+    400180: Monstro_Rig_2:Under
+    2100000: lambert1
+    2100002: Monstro_Rig_2_pasted__blinn3
+    4300000: Monstro_Rig_2:Body
+    4300002: Monstro_Rig_2:Skull
+    4300004: Monstro_Rig_2:polySurface1
+    4300006: Monstro_Rig_2:ClothBelt
+    4300008: Monstro_Rig_2:OutEye
+    4300010: Monstro_Rig_2:InnerEye
+    4300012: Monstro_Rig_2:OutEye
+    4300014: Monstro_Rig_2:InnerEye
+    4300016: Monstro_Rig_2:polySurface15
+    4300018: Monstro_Rig_2:Under
+    4300020: Monstro_Rig_2:MouthUp
+    4300022: Monstro_Rig_2:MouthDown
+    7400000: Running
+    7400002: Idle
+    7400004: Attacking
+    9500000: //RootNode
+    13700000: Monstro_Rig_2:Body
+    13700002: Monstro_Rig_2:ClothBelt
+    13700004: Monstro_Rig_2:InnerEye
+    13700006: Monstro_Rig_2:InnerEye 1
+    13700008: Monstro_Rig_2:MouthDown
+    13700010: Monstro_Rig_2:MouthUp
+    13700012: Monstro_Rig_2:OutEye
+    13700014: Monstro_Rig_2:OutEye 1
+    13700016: Monstro_Rig_2:polySurface1
+    13700018: Monstro_Rig_2:polySurface15
+    13700020: Monstro_Rig_2:Skull
+    13700022: Monstro_Rig_2:Under
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 7
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Running
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attacking
+      takeName: Take 001
+      firstFrame: 78
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.40153158
+        functionName: SomAtaque
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6783912
+        functionName: MortePlayer
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.99435806
+        functionName: AtivaSomAtaque
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

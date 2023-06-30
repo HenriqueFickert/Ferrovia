@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: f60d59624a13a6c4784271e3b86d0f26
+timeCreated: 1527196320
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Casa
+    100004: "Ch\xE3o"
+    100006: Janela_1
+    100008: Janela_2
+    100010: Janela_3
+    100012: Janela_4
+    100014: Janela_5
+    100016: polySurface10
+    100018: polySurface11
+    100020: polySurface12
+    100022: polySurface13
+    100024: polySurface14
+    100026: polySurface15
+    100028: polySurface16
+    100030: polySurface18
+    100032: polySurface19
+    100034: polySurface21
+    100036: polySurface22
+    100038: polySurface24
+    100040: polySurface25
+    100042: polySurface26
+    100044: polySurface27
+    100046: polySurface28
+    100048: polySurface29
+    100050: polySurface6
+    100052: polySurface7
+    100054: polySurface9
+    100056: Porta
+    100058: Porta 1
+    100060: Porta 2
+    100062: Porta 3
+    100064: Porta 4
+    100066: Porta_banheiro
+    100068: Porta_de_entrada
+    100070: Porta_quarto_1
+    100072: Porta_quarto_2
+    100074: Porta_sala
+    100076: Telhado
+    400000: //RootNode
+    400002: Casa
+    400004: "Ch\xE3o"
+    400006: Janela_1
+    400008: Janela_2
+    400010: Janela_3
+    400012: Janela_4
+    400014: Janela_5
+    400016: polySurface10
+    400018: polySurface11
+    400020: polySurface12
+    400022: polySurface13
+    400024: polySurface14
+    400026: polySurface15
+    400028: polySurface16
+    400030: polySurface18
+    400032: polySurface19
+    400034: polySurface21
+    400036: polySurface22
+    400038: polySurface24
+    400040: polySurface25
+    400042: polySurface26
+    400044: polySurface27
+    400046: polySurface28
+    400048: polySurface29
+    400050: polySurface6
+    400052: polySurface7
+    400054: polySurface9
+    400056: Porta
+    400058: Porta 1
+    400060: Porta 2
+    400062: Porta 3
+    400064: Porta 4
+    400066: Porta_banheiro
+    400068: Porta_de_entrada
+    400070: Porta_quarto_1
+    400072: Porta_quarto_2
+    400074: Porta_sala
+    400076: Telhado
+    2100000: lambert1
+    2300000: Casa
+    2300002: "Ch\xE3o"
+    2300004: polySurface10
+    2300006: polySurface11
+    2300008: polySurface12
+    2300010: polySurface13
+    2300012: polySurface14
+    2300014: polySurface15
+    2300016: polySurface16
+    2300018: polySurface18
+    2300020: polySurface19
+    2300022: polySurface21
+    2300024: polySurface22
+    2300026: polySurface24
+    2300028: polySurface25
+    2300030: polySurface26
+    2300032: polySurface27
+    2300034: polySurface28
+    2300036: polySurface29
+    2300038: polySurface6
+    2300040: polySurface7
+    2300042: polySurface9
+    2300044: Porta
+    2300046: Porta 1
+    2300048: Porta 2
+    2300050: Porta 3
+    2300052: Porta 4
+    2300054: Telhado
+    3300000: Casa
+    3300002: "Ch\xE3o"
+    3300004: polySurface10
+    3300006: polySurface11
+    3300008: polySurface12
+    3300010: polySurface13
+    3300012: polySurface14
+    3300014: polySurface15
+    3300016: polySurface16
+    3300018: polySurface18
+    3300020: polySurface19
+    3300022: polySurface21
+    3300024: polySurface22
+    3300026: polySurface24
+    3300028: polySurface25
+    3300030: polySurface26
+    3300032: polySurface27
+    3300034: polySurface28
+    3300036: polySurface29
+    3300038: polySurface6
+    3300040: polySurface7
+    3300042: polySurface9
+    3300044: Porta
+    3300046: Porta 1
+    3300048: Porta 2
+    3300050: Porta 3
+    3300052: Porta 4
+    3300054: Telhado
+    4300000: Telhado
+    4300002: "Ch\xE3o"
+    4300004: Casa
+    4300006: Porta
+    4300008: polySurface24
+    4300010: polySurface25
+    4300012: Porta
+    4300014: polySurface9
+    4300016: polySurface10
+    4300018: Porta
+    4300020: polySurface6
+    4300022: polySurface7
+    4300024: Porta
+    4300026: polySurface21
+    4300028: polySurface22
+    4300030: Porta
+    4300032: polySurface18
+    4300034: polySurface19
+    4300036: polySurface13
+    4300038: polySurface14
+    4300040: polySurface15
+    4300042: polySurface16
+    4300044: polySurface11
+    4300046: polySurface12
+    4300048: polySurface28
+    4300050: polySurface29
+    4300052: polySurface26
+    4300054: polySurface27
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

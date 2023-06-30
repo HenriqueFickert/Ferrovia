@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 6e6636e0c9612ca418ce12f068e79bfc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Ch\xE3o"
+    100002: "Ch\xE3o 1"
+    100004: //RootNode
+    100006: Janelas1
+    100008: Janelas_1
+    100010: Janelas_2
+    100012: Janelas_3
+    100014: Janelas_4
+    100016: "Ma\xE7aneta_principal_1"
+    100018: "Ma\xE7aneta_principal_2"
+    100020: "Ma\xE7aneta_secundaria_1"
+    100022: "Ma\xE7aneta_secundaria_2"
+    100024: "Ma\xE7aneta_terciaria_1"
+    100026: "Ma\xE7aneta_terciaria_2"
+    100028: Paredes
+    100030: Paredes 1
+    100032: polySurface16
+    100034: polySurface17
+    100036: polySurface18
+    100038: polySurface18 1
+    100040: polySurface19
+    100042: polySurface23
+    100044: polySurface24
+    100046: polySurface25
+    100048: polySurface26
+    100050: Porta_principal
+    100052: Porta_principal 1
+    100054: Porta_secundaria
+    100056: Porta_secundaria 1
+    100058: Porta_terciaria
+    100060: Porta_terciaria 1
+    100062: Portas
+    100064: Teto
+    100066: Teto 1
+    100068: transform1
+    100070: transform10
+    100072: transform11
+    100074: transform12
+    100076: transform13
+    100078: transform14
+    100080: transform15
+    100082: transform16
+    100084: transform17
+    100086: transform18
+    100088: transform2
+    100090: transform3
+    100092: transform4
+    100094: transform5
+    100096: transform6
+    100098: transform7
+    100100: transform8
+    100102: transform9
+    400000: "Ch\xE3o"
+    400002: "Ch\xE3o 1"
+    400004: //RootNode
+    400006: Janelas1
+    400008: Janelas_1
+    400010: Janelas_2
+    400012: Janelas_3
+    400014: Janelas_4
+    400016: "Ma\xE7aneta_principal_1"
+    400018: "Ma\xE7aneta_principal_2"
+    400020: "Ma\xE7aneta_secundaria_1"
+    400022: "Ma\xE7aneta_secundaria_2"
+    400024: "Ma\xE7aneta_terciaria_1"
+    400026: "Ma\xE7aneta_terciaria_2"
+    400028: Paredes
+    400030: Paredes 1
+    400032: polySurface16
+    400034: polySurface17
+    400036: polySurface18
+    400038: polySurface18 1
+    400040: polySurface19
+    400042: polySurface23
+    400044: polySurface24
+    400046: polySurface25
+    400048: polySurface26
+    400050: Porta_principal
+    400052: Porta_principal 1
+    400054: Porta_secundaria
+    400056: Porta_secundaria 1
+    400058: Porta_terciaria
+    400060: Porta_terciaria 1
+    400062: Portas
+    400064: Teto
+    400066: Teto 1
+    400068: transform1
+    400070: transform10
+    400072: transform11
+    400074: transform12
+    400076: transform13
+    400078: transform14
+    400080: transform15
+    400082: transform16
+    400084: transform17
+    400086: transform18
+    400088: transform2
+    400090: transform3
+    400092: transform4
+    400094: transform5
+    400096: transform6
+    400098: transform7
+    400100: transform8
+    400102: transform9
+    2100000: Teto1
+    2100002: lambert1
+    2300000: "Ch\xE3o 1"
+    2300002: polySurface18
+    2300004: Porta_principal
+    2300006: Porta_secundaria
+    2300008: Porta_terciaria
+    2300010: Teto 1
+    3300000: "Ch\xE3o 1"
+    3300002: polySurface18
+    3300004: Porta_principal
+    3300006: Porta_secundaria
+    3300008: Porta_terciaria
+    3300010: Teto 1
+    4300000: Teto
+    4300002: "Ch\xE3o"
+    4300004: polySurface18
+    4300006: Porta_principal
+    4300008: Porta_terciaria
+    4300010: Porta_secundaria
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
